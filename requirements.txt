@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+faster-whisper
+pyannote.audio
+torch
+torchaudio
+openai
+python-docx
+fpdf2
+python-multipart
+huggingface_hub
